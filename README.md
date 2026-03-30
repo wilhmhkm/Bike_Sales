@@ -1,4 +1,4 @@
-# 🚲 Bike Sales Dashboard (Excel End-to-End Project)
+# 🚲 Bike Sales
 
 ![Image Alt](https://github.com/wilhmhkm/Bike_Sales/blob/main/Screenshot%202026-03-30%20221715.jpg?raw=true)
 
