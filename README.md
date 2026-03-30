@@ -1,7 +1,6 @@
 # 🚲 Bike Sales Dashboard (Excel End-to-End Project)
 
-![Image Alt](![Uploading image.png…]()
-)
+![Image Alt](https://github.com/wilhmhkm/Bike_Sales/blob/main/Screenshot%202026-03-30%20221715.jpg?raw=true)
 
 ## 📌 Executive Summary
 This project demonstrates a complete end-to-end data analytics workflow using Microsoft Excel — from raw data preparation to an interactive dashboard.
