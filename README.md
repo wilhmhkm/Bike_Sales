@@ -2,8 +2,7 @@
 
 ![Image Alt](https://github.com/wilhmhkm/Bike_Sales/blob/278f07183cdeda1d3cb39222d45bbb7f5584e56d/Project%20Dashboard.jpg)
 
-[View Interactive Dashboard Here](https://1drv.ms/x/c/24dfaccbb723da12/IQBesFUOwa0lSLRwLjbKqcqlAQnHTQJVDpycDQTRrTOYH5w?e=wjBYX5)
-<p align="center">This text will be centered.</p>
+<p align="center">([View Interactive Dashboard Here](https://1drv.ms/x/c/24dfaccbb723da12/IQBesFUOwa0lSLRwLjbKqcqlAQnHTQJVDpycDQTRrTOYH5w?e=wjBYX5))</p>
 
 ## 📌 Executive Summary
 
